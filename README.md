@@ -25,15 +25,10 @@ This project was completed by understanding and implementing concepts from a **Y
 ### 📸 Screenshots
 
 1. **Desktop View**
-   ![Desktop View](![Screenshot 2025-06-27 113536](https://github.com/user-attachments/assets/1f04ab00-0d31-4275-bddc-58df7c7523c1)
-)
-)
+  ![Screenshot 2025-06-27 113536](https://github.com/user-attachments/assets/1f04ab00-0d31-4275-bddc-58df7c7523c1)
 
 2. **Mobile View**
-   ![Mobile View](![Screenshot 2025-06-27 113823](https://github.com/user-attachments/assets/a4084755-9295-425a-808e-ab4f1018294f)
-
-)
-
+   [Screenshot 2025-06-27 113823](https://github.com/user-attachments/assets/a4084755-9295-425a-808e-ab4f1018294f)
 ---
 
 Feel free to clone or fork the repository and explore the code. Feedback and suggestions are always welcome!
