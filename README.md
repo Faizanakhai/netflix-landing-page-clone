@@ -25,11 +25,13 @@ This project was completed by understanding and implementing concepts from a **Y
 ### 📸 Screenshots
 
 1. **Desktop View**
-   ![Desktop View](![image](https://github.com/user-attachments/assets/1952c60e-02e8-4bca-b570-a518c32ae40b)
+   ![Desktop View](![Screenshot 2025-06-27 113536](https://github.com/user-attachments/assets/1f04ab00-0d31-4275-bddc-58df7c7523c1)
+)
 )
 
 2. **Mobile View**
-   ![Mobile View](![image](https://github.com/user-attachments/assets/58ce3e42-006c-43cf-854a-2d87e1f6b33e)
+   ![Mobile View](![Screenshot 2025-06-27 113823](https://github.com/user-attachments/assets/a4084755-9295-425a-808e-ab4f1018294f)
+
 )
 
 ---
