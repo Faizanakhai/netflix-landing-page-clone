@@ -28,7 +28,8 @@ This project was completed by understanding and implementing concepts from a **Y
    ![Screenshot 2025-06-27 113536](https://github.com/user-attachments/assets/1f04ab00-0d31-4275-bddc-58df7c7523c1)
 
 2. **Mobile View**
-   ![Screenshot 2025-06-27 113823](https://github.com/user-attachments/assets/a4084755-9295-425a-808e-ab4f1018294f)
+   Mobile View
+   ![Mobile View](https://github.com/user-attachments/assets/a4084755-9295-425a-808e-ab4f1018294f)
 
 ---
 
