@@ -25,10 +25,12 @@ This project was completed by understanding and implementing concepts from a **Y
 ### 📸 Screenshots
 
 1. **Desktop View**
-   ![Desktop View](path-to-your-screenshot-desktop.png)
+   ![Desktop View](![image](https://github.com/user-attachments/assets/1952c60e-02e8-4bca-b570-a518c32ae40b)
+)
 
 2. **Mobile View**
-   ![Mobile View](path-to-your-screenshot-mobile.png)
+   ![Mobile View](![image](https://github.com/user-attachments/assets/58ce3e42-006c-43cf-854a-2d87e1f6b33e)
+)
 
 ---
 
