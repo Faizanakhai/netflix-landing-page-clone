@@ -20,7 +20,7 @@ This project was completed by understanding and implementing concepts from a **Y
 
 ### 🚀 Live Demo
 
-[https://your-netflix-clone-link.netlify.app](https://your-netflix-clone-link.netlify.app)
+[https://netflix-ui-clone-fz.netlify.app](https://netflix-ui-clone-fz.netlify.app)
 
 ### 📸 Screenshots
 
